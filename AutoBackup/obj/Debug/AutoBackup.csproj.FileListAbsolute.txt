@@ -1,0 +1,10 @@
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\bin\Debug\AutoBackup.exe.config
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\bin\Debug\AutoBackup.exe
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\bin\Debug\AutoBackup.pdb
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csprojAssemblyReference.cache
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\obj\Debug\AutoBackup.Form1.resources
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\obj\Debug\AutoBackup.Properties.Resources.resources
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.GenerateResource.cache
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csproj.CoreCompileInputs.cache
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\obj\Debug\AutoBackup.exe
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\obj\Debug\AutoBackup.pdb

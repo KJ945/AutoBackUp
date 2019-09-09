@@ -1,0 +1,9 @@
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\bin\Release\AutoBackup.exe.config
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\bin\Release\AutoBackup.exe
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\bin\Release\AutoBackup.pdb
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\obj\Release\AutoBackup.Form1.resources
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\obj\Release\AutoBackup.Properties.Resources.resources
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\obj\Release\AutoBackup.csproj.GenerateResource.cache
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\obj\Release\AutoBackup.csproj.CoreCompileInputs.cache
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\obj\Release\AutoBackup.exe
+C:\Users\哲\source\repos\AutoBackup\AutoBackup\obj\Release\AutoBackup.pdb

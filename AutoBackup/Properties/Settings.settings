@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AutoBackup.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FromPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\哲\Desktop\</Value>
+    </Setting>
+    <Setting Name="ToPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\哲\Desktop\燒\</Value>
+    </Setting>
+    <Setting Name="ext" Type="System.String" Scope="User">
+      <Value Profile="(Default)">*.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
